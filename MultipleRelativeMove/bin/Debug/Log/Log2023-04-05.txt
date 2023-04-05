@@ -1,0 +1,344 @@
+2023-04-05 06:51:45.751, 34864, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 06:51:45.758, 34864, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 06:51:45.763, 34864, 1, 64-bit OS, 64-bit mode.
+2023-04-05 06:51:45.764, 34864, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 06:51:45.766, 34864, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 06:51:45.786, 34864, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 06:51:45.876, 34864, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 06:51:45.887, 34864, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 06:51:45.896, 34864, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 06:51:45.897, 34864, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 06:51:46.899, 34864, 3,    Number of devices discovered: 0
+2023-04-05 06:51:50.800, 34864, 1, CloseDevices:  Success
+2023-04-05 06:52:21.594, 8868, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 06:52:21.599, 8868, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 06:52:21.603, 8868, 1, 64-bit OS, 64-bit mode.
+2023-04-05 06:52:21.604, 8868, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 06:52:21.605, 8868, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 06:52:21.628, 8868, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 06:52:21.711, 8868, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 06:52:21.735, 8868, 3,    Number of devices discovered: 0
+2023-04-05 06:54:16.069, 35584, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 06:54:16.075, 35584, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 06:54:16.079, 35584, 1, 64-bit OS, 64-bit mode.
+2023-04-05 06:54:16.080, 35584, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 06:54:16.081, 35584, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 06:54:16.100, 35584, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 06:54:16.105, 35584, 1, OpenDevices (By Key):  DeviceKey #1 = '8742 100236'
+2023-04-05 06:54:16.137, 35584, 1, USB device added to discovery list:  Device Key = 8742 100236
+2023-04-05 06:54:16.164, 35584, 1, Write:  Cmd = '*IDN?'
+2023-04-05 06:54:16.174, 35584, 1, Read:  Status = 0, Bytes read = 38, Response length = 36, Response = 'New_Focus 8742 v3.04 09/09/16 100236'
+2023-04-05 06:54:16.392, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:16.393, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 06:54:16.398, 35584, 1, Write:  Cmd = 'SC 0'
+2023-04-05 06:54:16.605, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:16.606, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:16.819, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:16.820, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:17.034, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:17.036, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:17.250, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:17.251, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:17.465, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:17.466, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:17.681, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:17.682, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:17.895, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:17.896, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:54:18.110, 35584, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:54:18.111, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 06:54:18.113, 35584, 1, Write:  Cmd = 'SC?'
+2023-04-05 06:54:18.113, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '2'
+2023-04-05 06:54:18.119, 35584, 1, Write:  Cmd = 'SA?'
+2023-04-05 06:54:18.120, 35584, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 06:54:18.121, 35584, 1, Master Controller (Device Key = 8742 100236, Display Name = 8742 100236) has 0 Slave Controllers.
+2023-04-05 06:54:18.196, 35584, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 06:54:18.208, 35584, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 06:54:18.222, 35584, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 06:54:18.223, 35584, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 06:54:19.234, 35584, 3,    Number of devices discovered: 0
+2023-04-05 06:54:23.146, 35584, 1, Master Controller:  Device Key = '8742 100236', Address = 1, Model / Serial = 8742 100236
+2023-04-05 06:56:01.785, 28988, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 06:56:01.790, 28988, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 06:56:01.794, 28988, 1, 64-bit OS, 64-bit mode.
+2023-04-05 06:56:01.795, 28988, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 06:56:01.796, 28988, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 06:56:01.816, 28988, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 06:56:01.822, 28988, 1, OpenDevices (By Key):  DeviceKey #1 = '8742 100236'
+2023-04-05 06:56:01.849, 28988, 1, USB device added to discovery list:  Device Key = 8742 100236
+2023-04-05 06:56:01.873, 28988, 1, Write:  Cmd = '*IDN?'
+2023-04-05 06:56:01.881, 28988, 1, Read:  Status = 0, Bytes read = 38, Response length = 36, Response = 'New_Focus 8742 v3.04 09/09/16 100236'
+2023-04-05 06:56:02.090, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:02.091, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 06:56:02.097, 28988, 1, Write:  Cmd = 'SC 0'
+2023-04-05 06:56:02.306, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:02.307, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:02.517, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:02.519, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:02.734, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:02.735, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:02.950, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:02.951, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:03.166, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:03.167, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:03.379, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:03.380, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 06:56:03.595, 28988, 1, Write:  Cmd = 'SD?'
+2023-04-05 06:56:03.596, 28988, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:10.504, 24956, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:08:10.510, 24956, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:08:10.514, 24956, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:08:10.514, 24956, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:08:10.516, 24956, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:08:10.535, 24956, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 07:08:10.541, 24956, 1, OpenDevices (By Key):  DeviceKey #1 = '8742 100236'
+2023-04-05 07:08:10.569, 24956, 1, USB device added to discovery list:  Device Key = 8742 100236
+2023-04-05 07:08:10.596, 24956, 1, Write:  Cmd = '*IDN?'
+2023-04-05 07:08:10.604, 24956, 1, Read:  Status = 0, Bytes read = 38, Response length = 36, Response = 'New_Focus 8742 v3.04 09/09/16 100236'
+2023-04-05 07:08:10.815, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:10.816, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:10.820, 24956, 1, Write:  Cmd = 'SC 0'
+2023-04-05 07:08:11.028, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:11.029, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:11.243, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:11.245, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:11.457, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:11.459, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:11.671, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:11.672, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:11.885, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:11.886, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:12.097, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:12.098, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:12.309, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:12.310, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:12.525, 24956, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:12.526, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:12.529, 24956, 1, Write:  Cmd = 'SC?'
+2023-04-05 07:08:12.530, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '2'
+2023-04-05 07:08:12.538, 24956, 1, Write:  Cmd = 'SA?'
+2023-04-05 07:08:12.539, 24956, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:12.540, 24956, 1, Master Controller (Device Key = 8742 100236, Display Name = 8742 100236) has 0 Slave Controllers.
+2023-04-05 07:08:12.617, 24956, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:12.626, 24956, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:12.635, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:12.636, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:13.640, 24956, 3,    Number of devices discovered: 0
+2023-04-05 07:08:18.652, 24956, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:18.652, 24956, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:18.653, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:18.653, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:19.659, 24956, 3,    Number of devices discovered: 0
+2023-04-05 07:08:24.665, 24956, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:24.665, 24956, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:24.666, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:24.666, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:25.672, 24956, 3,    Number of devices discovered: 0
+2023-04-05 07:08:30.674, 24956, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:30.674, 24956, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:30.675, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:30.675, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:31.677, 24956, 3,    Number of devices discovered: 0
+2023-04-05 07:08:36.685, 24956, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:36.686, 24956, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:36.687, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:36.687, 24956, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:37.692, 24956, 3,    Number of devices discovered: 0
+2023-04-05 07:08:46.342, 23088, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:08:46.347, 23088, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:08:46.352, 23088, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:08:46.353, 23088, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:08:46.355, 23088, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:08:46.380, 23088, 1, OpenDevices (By Key): Open devices with ProductID '16384' (0x4000).
+2023-04-05 07:08:46.386, 23088, 1, OpenDevices (By Key):  DeviceKey #1 = '8742 100236'
+2023-04-05 07:08:46.413, 23088, 1, USB device added to discovery list:  Device Key = 8742 100236
+2023-04-05 07:08:46.434, 23088, 1, Write:  Cmd = '*IDN?'
+2023-04-05 07:08:46.442, 23088, 1, Read:  Status = 0, Bytes read = 38, Response length = 36, Response = 'New_Focus 8742 v3.04 09/09/16 100236'
+2023-04-05 07:08:46.662, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:46.663, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:46.667, 23088, 1, Write:  Cmd = 'SC 0'
+2023-04-05 07:08:46.873, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:46.874, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:47.088, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:47.089, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:47.303, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:47.309, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:47.518, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:47.519, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:47.731, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:47.732, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:47.949, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:47.950, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:48.165, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:48.166, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '0'
+2023-04-05 07:08:48.380, 23088, 1, Write:  Cmd = 'SD?'
+2023-04-05 07:08:48.381, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:48.383, 23088, 1, Write:  Cmd = 'SC?'
+2023-04-05 07:08:48.384, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '2'
+2023-04-05 07:08:48.389, 23088, 1, Write:  Cmd = 'SA?'
+2023-04-05 07:08:48.390, 23088, 1, Read:  Status = 0, Bytes read = 3, Response length = 1, Response = '1'
+2023-04-05 07:08:48.391, 23088, 1, Master Controller (Device Key = 8742 100236, Display Name = 8742 100236) has 0 Slave Controllers.
+2023-04-05 07:08:48.468, 23088, 3, CreateUDPSockets: Host Address = 192.168.68.152
+2023-04-05 07:08:48.478, 23088, 3, SendDiscoveryMessage: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:48.486, 23088, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:48.487, 23088, 3, ReadDiscoveryResponse: Socket[0] = 192.168.68.152:23
+2023-04-05 07:08:49.494, 23088, 3,    Number of devices discovered: 0
+2023-04-05 07:08:53.408, 23088, 1, Master Controller:  Device Key = '8742 100236', Address = 1, Model / Serial = 8742 100236
+2023-04-05 07:17:39.245, 30892, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:17:39.253, 30892, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:17:39.259, 30892, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:17:39.260, 30892, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:17:39.262, 30892, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:17:46.309, 30892, 1,                Motor #1', Position = 0
+2023-04-05 07:17:46.310, 30892, 1,                Motor #2', Position = 0
+2023-04-05 07:17:46.311, 30892, 1,                Motor #3', Position = 0
+2023-04-05 07:17:46.311, 30892, 1,                Motor #4', Position = 0
+2023-04-05 07:17:58.462, 13564, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:17:58.470, 13564, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:17:58.474, 13564, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:17:58.475, 13564, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:17:58.476, 13564, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:18:05.467, 13564, 1,                Motor #1', Position = 0
+2023-04-05 07:18:05.468, 13564, 1,                Motor #2', Position = 0
+2023-04-05 07:18:05.469, 13564, 1,                Motor #3', Position = 0
+2023-04-05 07:18:05.470, 13564, 1,                Motor #4', Position = 0
+2023-04-05 07:18:39.478, 21080, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:18:39.483, 21080, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:18:39.487, 21080, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:18:39.488, 21080, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:18:39.489, 21080, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:18:46.471, 21080, 1, Motor #1', Position = 0
+2023-04-05 07:18:46.472, 21080, 1, Motor #2', Position = 0
+2023-04-05 07:18:46.473, 21080, 1, Motor #3', Position = 0
+2023-04-05 07:18:46.474, 21080, 1, Motor #4', Position = 0
+2023-04-05 07:40:25.630, 19672, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:40:25.637, 19672, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:40:25.641, 19672, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:40:25.642, 19672, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:40:25.643, 19672, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:40:32.666, 19672, 1, Motor #1', Start Position = 0
+2023-04-05 07:40:36.482, 19672, 1, Motor #2', Start Position = 0
+2023-04-05 07:40:37.870, 19672, 1, Motor #3', Start Position = 0
+2023-04-05 07:40:38.410, 19672, 1, Motor #4', Start Position = 0
+2023-04-05 07:40:55.517, 33344, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:40:55.523, 33344, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:40:55.527, 33344, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:40:55.528, 33344, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:40:55.529, 33344, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:41:02.544, 33344, 1, Motor #1', Start Position = 0
+2023-04-05 07:41:10.184, 33344, 1, Motor #2', Start Position = 0
+2023-04-05 07:41:11.596, 33344, 1, Motor #3', Start Position = 0
+2023-04-05 07:41:12.990, 33344, 1, Motor #4', Start Position = 0
+2023-04-05 07:44:15.891, 34184, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:44:15.897, 34184, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:44:15.901, 34184, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:44:15.901, 34184, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:44:15.903, 34184, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:44:22.926, 34184, 1, Motor #1', Start Position = 0
+2023-04-05 07:44:25.951, 34184, 1, Motor #2', Start Position = 0
+2023-04-05 07:44:26.501, 34184, 1, Motor #3', Start Position = 0
+2023-04-05 07:44:27.516, 34184, 1, Motor #4', Start Position = 0
+2023-04-05 07:44:44.364, 25392, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:44:44.369, 25392, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:44:44.373, 25392, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:44:44.374, 25392, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:44:44.375, 25392, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:44:51.388, 25392, 1, Motor #1', Start Position = 0
+2023-04-05 07:44:53.208, 25392, 1, Motor #2', Start Position = 0
+2023-04-05 07:44:54.940, 25392, 1, Motor #3', Start Position = 0
+2023-04-05 07:44:57.572, 25392, 1, Motor #4', Start Position = 0
+2023-04-05 07:45:35.157, 34696, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:45:35.162, 34696, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:45:35.166, 34696, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:45:35.167, 34696, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:45:35.168, 34696, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:45:42.200, 34696, 1, Motor #1', Start Position = 0
+2023-04-05 07:45:45.103, 34696, 1, Motor #2', Start Position = 0
+2023-04-05 07:45:47.864, 34696, 1, Motor #3', Start Position = 0
+2023-04-05 07:45:49.736, 34696, 1, Motor #4', Start Position = 0
+2023-04-05 07:55:54.666, 2536, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 07:55:54.672, 2536, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 07:55:54.676, 2536, 1, 64-bit OS, 64-bit mode.
+2023-04-05 07:55:54.677, 2536, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 07:55:54.678, 2536, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 07:56:01.691, 2536, 1, Motor #1', Start Position = 0
+2023-04-05 07:56:11.932, 2536, 1, Motor #2', Start Position = 0
+2023-04-05 07:56:13.135, 2536, 1, Motor #3', Start Position = 0
+2023-04-05 07:56:13.565, 2536, 1, Motor #4', Start Position = 0
+2023-04-05 08:01:29.618, 7288, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:01:29.624, 7288, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:01:29.629, 7288, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:01:29.630, 7288, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:01:29.631, 7288, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:01:36.691, 7288, 1, Motor #1', Start Position = 0
+2023-04-05 08:01:39.446, 7288, 1, Motor #2', Start Position = 0
+2023-04-05 08:01:44.197, 7288, 1, Motor #3', Start Position = 0
+2023-04-05 08:01:45.275, 7288, 1, Motor #4', Start Position = 0
+2023-04-05 08:08:18.867, 12768, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:08:18.873, 12768, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:08:18.878, 12768, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:08:18.879, 12768, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:08:18.881, 12768, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:08:25.891, 12768, 1, Motor #1', Start Position = 0
+2023-04-05 08:08:28.154, 12768, 1, Motor #2', Start Position = 0
+2023-04-05 08:08:30.530, 12768, 1, Motor #3', Start Position = 0
+2023-04-05 08:08:32.529, 12768, 1, Motor #4', Start Position = 0
+2023-04-05 08:08:53.908, 32884, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:08:53.914, 32884, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:08:53.919, 32884, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:08:53.920, 32884, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:08:53.922, 32884, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:09:00.951, 32884, 1, Motor #1', Start Position = 0
+2023-04-05 08:09:03.525, 32884, 1, Motor #2', Start Position = 0
+2023-04-05 08:09:04.349, 32884, 1, Motor #3', Start Position = 0
+2023-04-05 08:09:05.301, 32884, 1, Motor #4', Start Position = 0
+2023-04-05 08:12:40.590, 33000, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:12:40.595, 33000, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:12:40.600, 33000, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:12:40.601, 33000, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:12:40.602, 33000, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:12:47.624, 33000, 1, Motor #1', Start Position = 0
+2023-04-05 08:12:51.593, 33000, 1, Motor #2', Start Position = 0
+2023-04-05 08:12:52.597, 33000, 1, Motor #3', Start Position = 0
+2023-04-05 08:12:53.125, 33000, 1, Motor #4', Start Position = 0
+2023-04-05 08:15:14.721, 29136, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:15:14.727, 29136, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:15:14.732, 29136, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:15:14.733, 29136, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:15:14.734, 29136, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:15:32.573, 31600, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:15:32.580, 31600, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:15:32.584, 31600, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:15:32.584, 31600, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:15:32.586, 31600, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:15:39.582, 31600, 1, Motor #1', Start Position = 0
+2023-04-05 08:15:41.701, 31600, 1, Motor #2', Start Position = 0
+2023-04-05 08:15:42.322, 31600, 1, Motor #3', Start Position = 0
+2023-04-05 08:15:42.672, 31600, 1, Motor #4', Start Position = 0
+2023-04-05 08:16:45.627, 25300, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:16:45.632, 25300, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:16:45.637, 25300, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:16:45.638, 25300, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:16:45.640, 25300, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:16:52.657, 25300, 1, Motor #1', Start Position = 0
+2023-04-05 08:16:54.603, 25300, 1, Motor #2', Start Position = 0
+2023-04-05 08:16:55.316, 25300, 1, Motor #3', Start Position = 0
+2023-04-05 08:16:55.680, 25300, 1, Motor #4', Start Position = 0
+2023-04-05 08:18:15.225, 21852, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:18:15.230, 21852, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:18:15.234, 21852, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:18:15.235, 21852, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:18:15.236, 21852, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:18:22.240, 21852, 1, Motor #1', Start Position = 0
+2023-04-05 08:18:26.060, 21852, 1, Motor #2', Start Position = 0
+2023-04-05 08:18:27.520, 21852, 1, Motor #3', Start Position = 0
+2023-04-05 08:18:27.975, 21852, 1, Motor #4', Start Position = 0
+2023-04-05 08:19:26.019, 26924, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe **********
+2023-04-05 08:19:26.026, 26924, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-05 08:19:26.030, 26924, 1, 64-bit OS, 64-bit mode.
+2023-04-05 08:19:26.031, 26924, 1, System Folder: C:\WINDOWS\system32
+2023-04-05 08:19:26.032, 26924, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-05 08:19:33.050, 26924, 1, Motor #1', Start Position = 0
+2023-04-05 08:19:34.778, 26924, 1, Motor #2', Start Position = 0
+2023-04-05 08:19:35.361, 26924, 1, Motor #3', Start Position = 0
+2023-04-05 08:19:35.863, 26924, 1, Motor #4', Start Position = 0

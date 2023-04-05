@@ -1,0 +1,10 @@
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\obj\Debug\MultipleRelativeMove.csproj.AssemblyReference.cache
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\obj\Debug\MultipleRelativeMove.csproj.CoreCompileInputs.cache
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.exe
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\MultipleRelativeMove.pdb
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\CmdLib.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\UsbDllWrap.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\bin\Debug\NpEthernet.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\obj\Debug\MultipleRelativeMove.csproj.CopyComplete
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\obj\Debug\MultipleRelativeMove.exe
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMove\obj\Debug\MultipleRelativeMove.pdb
