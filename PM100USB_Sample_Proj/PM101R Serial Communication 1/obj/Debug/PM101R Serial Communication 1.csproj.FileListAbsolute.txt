@@ -1,0 +1,11 @@
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.exe.config
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\PM101R Serial Communication 1.pdb
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\bin\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.AssemblyReference.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.csproj.CopyComplete
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 1\obj\Debug\PM101R Serial Communication 1.pdb

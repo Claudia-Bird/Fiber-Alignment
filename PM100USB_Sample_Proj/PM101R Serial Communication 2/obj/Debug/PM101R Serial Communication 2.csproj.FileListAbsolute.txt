@@ -1,0 +1,8 @@
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\bin\Debug\PM101R Serial Communication 2.exe.config
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\bin\Debug\PM101R Serial Communication 2.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\bin\Debug\PM101R Serial Communication 2.pdb
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\obj\Debug\PM101R Serial Communication 2.csproj.AssemblyReference.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\obj\Debug\PM101R Serial Communication 2.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\obj\Debug\PM101R Serial Communication 2.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\obj\Debug\PM101R Serial Communication 2.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM101R Serial Communication 2\obj\Debug\PM101R Serial Communication 2.pdb

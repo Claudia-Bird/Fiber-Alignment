@@ -1,0 +1,11 @@
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\bin\Debug\PM103 Scope Sample SW Trigger.exe.config
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\bin\Debug\PM103 Scope Sample SW Trigger.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\bin\Debug\PM103 Scope Sample SW Trigger.pdb
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\bin\Debug\Thorlabs.TLPM_32.Interop.dll
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\bin\Debug\Thorlabs.TLPM_32.Interop.xml
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.csproj.AssemblyReference.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.csproj.SuggestedBindingRedirects.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.csproj.CopyComplete
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.exe
+C:\Program Files (x86)\IVI Foundation\VISA\WinNT\TLPM\Examples\MS.NET_CS\PM103 Scope Sample SW Trigger\obj\Debug\PM103 Scope Sample SW Trigger.pdb
