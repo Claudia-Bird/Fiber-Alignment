@@ -1,0 +1,246 @@
+2023-04-27 17:57:01.284, 28700, 1, Motor #1', Start Position = 0
+2023-04-27 17:57:01.286, 28700, 1, Motor #2', Start Position = 0
+2023-04-27 17:57:01.287, 28700, 1, Motor #3', Start Position = 0
+2023-04-27 17:57:01.288, 28700, 1, Motor #4', Start Position = 0
+2023-04-27 18:04:19.749, 32068, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 18:04:19.755, 32068, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 18:04:19.759, 32068, 1, 64-bit OS, 64-bit mode.
+2023-04-27 18:04:19.760, 32068, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 18:04:19.762, 32068, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 18:06:32.178, 1536, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 18:06:32.184, 1536, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 18:06:32.189, 1536, 1, 64-bit OS, 64-bit mode.
+2023-04-27 18:06:32.189, 1536, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 18:06:32.191, 1536, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 18:07:30.507, 25636, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 18:07:30.513, 25636, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 18:07:30.518, 25636, 1, 64-bit OS, 64-bit mode.
+2023-04-27 18:07:30.519, 25636, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 18:07:30.521, 25636, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 18:49:49.341, 36108, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 18:49:49.349, 36108, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 18:49:49.356, 36108, 1, 64-bit OS, 64-bit mode.
+2023-04-27 18:49:49.357, 36108, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 18:49:49.359, 36108, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 18:49:56.543, 36108, 1, Motor #1', Start Position = 0
+2023-04-27 19:05:11.403, 36108, 1, Motor #2', Start Position = 0
+2023-04-27 19:05:12.419, 36108, 1, Motor #3', Start Position = 0
+2023-04-27 19:05:13.878, 36108, 1, Motor #4', Start Position = 0
+2023-04-27 19:16:49.831, 29324, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:16:49.838, 29324, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:16:49.842, 29324, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:16:49.843, 29324, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:16:49.845, 29324, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:16:57.003, 29324, 1, Motor #1', Start Position = 0
+2023-04-27 19:16:57.004, 29324, 1, Motor #2', Start Position = 0
+2023-04-27 19:16:57.005, 29324, 1, Motor #3', Start Position = 0
+2023-04-27 19:16:57.006, 29324, 1, Motor #4', Start Position = 0
+2023-04-27 19:26:46.440, 13044, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:26:46.447, 13044, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:26:46.452, 13044, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:26:46.452, 13044, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:26:46.454, 13044, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:26:53.621, 13044, 1, Motor #1', Start Position = 0
+2023-04-27 19:26:53.622, 13044, 1, Motor #2', Start Position = 0
+2023-04-27 19:26:53.623, 13044, 1, Motor #3', Start Position = 0
+2023-04-27 19:26:53.624, 13044, 1, Motor #4', Start Position = 0
+2023-04-27 19:29:11.421, 32520, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:29:11.427, 32520, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:29:11.432, 32520, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:29:11.432, 32520, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:29:11.434, 32520, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:29:18.620, 32520, 1, Motor #1', Start Position = 0
+2023-04-27 19:29:18.621, 32520, 1, Motor #2', Start Position = 0
+2023-04-27 19:29:18.622, 32520, 1, Motor #3', Start Position = 0
+2023-04-27 19:29:18.623, 32520, 1, Motor #4', Start Position = 0
+2023-04-27 19:40:20.439, 20660, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:40:20.448, 20660, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:40:20.455, 20660, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:40:20.456, 20660, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:40:20.457, 20660, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:40:54.696, 24196, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:40:54.705, 24196, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:40:54.711, 24196, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:40:54.712, 24196, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:40:54.714, 24196, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:41:01.709, 24196, 1, Motor #1', Start Position = 0
+2023-04-27 19:41:01.710, 24196, 1, Motor #2', Start Position = 0
+2023-04-27 19:41:01.711, 24196, 1, Motor #3', Start Position = 0
+2023-04-27 19:41:01.712, 24196, 1, Motor #4', Start Position = 0
+2023-04-27 19:42:00.154, 24928, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:42:00.162, 24928, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:42:00.169, 24928, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:42:00.170, 24928, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:42:00.172, 24928, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:42:07.376, 24928, 1, Motor #1', Start Position = 0
+2023-04-27 19:42:07.377, 24928, 1, Motor #2', Start Position = 0
+2023-04-27 19:42:07.378, 24928, 1, Motor #3', Start Position = 0
+2023-04-27 19:42:07.379, 24928, 1, Motor #4', Start Position = 0
+2023-04-27 19:42:50.377, 19876, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:42:50.383, 19876, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:42:50.387, 19876, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:42:50.388, 19876, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:42:50.389, 19876, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:42:57.579, 19876, 1, Motor #1', Start Position = 0
+2023-04-27 19:42:57.580, 19876, 1, Motor #2', Start Position = 0
+2023-04-27 19:42:57.581, 19876, 1, Motor #3', Start Position = 0
+2023-04-27 19:42:57.582, 19876, 1, Motor #4', Start Position = 0
+2023-04-27 19:46:52.325, 33420, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:46:52.332, 33420, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:46:52.336, 33420, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:46:52.337, 33420, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:46:52.339, 33420, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:46:59.335, 33420, 1, Motor #1', Start Position = 0
+2023-04-27 19:46:59.336, 33420, 1, Motor #2', Start Position = 0
+2023-04-27 19:46:59.337, 33420, 1, Motor #3', Start Position = 0
+2023-04-27 19:46:59.338, 33420, 1, Motor #4', Start Position = 0
+2023-04-27 19:47:14.515, 12008, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:47:14.520, 12008, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:47:14.525, 12008, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:47:14.525, 12008, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:47:14.527, 12008, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:47:21.507, 12008, 1, Motor #1', Start Position = 0
+2023-04-27 19:47:21.508, 12008, 1, Motor #2', Start Position = 0
+2023-04-27 19:47:21.509, 12008, 1, Motor #3', Start Position = 0
+2023-04-27 19:47:21.510, 12008, 1, Motor #4', Start Position = 0
+2023-04-27 19:56:58.612, 25356, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:56:58.619, 25356, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:56:58.624, 25356, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:56:58.624, 25356, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:56:58.626, 25356, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:57:05.623, 25356, 1, Motor #1', Start Position = 0
+2023-04-27 19:57:05.624, 25356, 1, Motor #2', Start Position = 0
+2023-04-27 19:57:05.625, 25356, 1, Motor #3', Start Position = 0
+2023-04-27 19:57:05.626, 25356, 1, Motor #4', Start Position = 0
+2023-04-27 19:59:21.173, 17756, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 19:59:21.179, 17756, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 19:59:21.183, 17756, 1, 64-bit OS, 64-bit mode.
+2023-04-27 19:59:21.184, 17756, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 19:59:21.185, 17756, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 19:59:28.186, 17756, 1, Motor #1', Start Position = 0
+2023-04-27 19:59:28.187, 17756, 1, Motor #2', Start Position = 0
+2023-04-27 19:59:28.188, 17756, 1, Motor #3', Start Position = 0
+2023-04-27 19:59:28.189, 17756, 1, Motor #4', Start Position = 0
+2023-04-27 20:31:43.539, 33452, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:31:43.545, 33452, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:31:43.550, 33452, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:31:43.551, 33452, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:31:43.552, 33452, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:31:53.001, 18904, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:31:53.006, 18904, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:31:53.011, 18904, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:31:53.012, 18904, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:31:53.014, 18904, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:32:00.080, 18904, 1, Motor #1', Start Position = 0
+2023-04-27 20:32:00.081, 18904, 1, Motor #2', Start Position = 0
+2023-04-27 20:32:00.082, 18904, 1, Motor #3', Start Position = 0
+2023-04-27 20:32:00.084, 18904, 1, Motor #4', Start Position = 0
+2023-04-27 20:35:35.060, 19812, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:35:35.067, 19812, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:35:35.073, 19812, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:35:35.073, 19812, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:35:35.075, 19812, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:35:42.091, 19812, 1, Motor #1', Start Position = 0
+2023-04-27 20:35:42.093, 19812, 1, Motor #2', Start Position = 0
+2023-04-27 20:35:42.093, 19812, 1, Motor #3', Start Position = 0
+2023-04-27 20:35:42.095, 19812, 1, Motor #4', Start Position = 0
+2023-04-27 20:47:06.301, 35872, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:47:06.307, 35872, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:47:06.313, 35872, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:47:06.314, 35872, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:47:06.316, 35872, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:47:13.486, 35872, 1, Motor #1', Start Position = 0
+2023-04-27 20:47:13.487, 35872, 1, Motor #2', Start Position = 0
+2023-04-27 20:47:13.488, 35872, 1, Motor #3', Start Position = 0
+2023-04-27 20:47:13.489, 35872, 1, Motor #4', Start Position = 0
+2023-04-27 20:47:54.310, 10224, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:47:54.316, 10224, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:47:54.320, 10224, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:47:54.320, 10224, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:47:54.321, 10224, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:48:01.324, 10224, 1, Motor #1', Start Position = 0
+2023-04-27 20:48:01.326, 10224, 1, Motor #2', Start Position = 0
+2023-04-27 20:48:01.327, 10224, 1, Motor #3', Start Position = 0
+2023-04-27 20:48:01.328, 10224, 1, Motor #4', Start Position = 0
+2023-04-27 20:49:08.188, 37292, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:49:08.194, 37292, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:49:08.199, 37292, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:49:08.200, 37292, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:49:08.201, 37292, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:49:36.722, 35728, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:49:36.729, 35728, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:49:36.735, 35728, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:49:36.736, 35728, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:49:36.737, 35728, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:49:43.932, 35728, 1, Motor #1', Start Position = 0
+2023-04-27 20:49:43.933, 35728, 1, Motor #2', Start Position = 0
+2023-04-27 20:49:43.934, 35728, 1, Motor #3', Start Position = 0
+2023-04-27 20:49:43.935, 35728, 1, Motor #4', Start Position = 0
+2023-04-27 20:50:17.269, 19964, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:50:17.275, 19964, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:50:17.279, 19964, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:50:17.280, 19964, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:50:17.282, 19964, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:50:26.162, 17464, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:50:26.170, 17464, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:50:26.174, 17464, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:50:26.175, 17464, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:50:26.176, 17464, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:50:29.354, 17464, 1, Motor #1', Start Position = 0
+2023-04-27 20:50:29.356, 17464, 1, Motor #2', Start Position = 0
+2023-04-27 20:50:29.357, 17464, 1, Motor #3', Start Position = 0
+2023-04-27 20:50:29.358, 17464, 1, Motor #4', Start Position = 0
+2023-04-27 20:52:09.846, 27672, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:52:09.852, 27672, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:52:09.857, 27672, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:52:09.857, 27672, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:52:09.859, 27672, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:52:12.843, 27672, 1, Motor #1', Start Position = 0
+2023-04-27 20:52:12.845, 27672, 1, Motor #2', Start Position = 0
+2023-04-27 20:52:12.846, 27672, 1, Motor #3', Start Position = 0
+2023-04-27 20:52:12.847, 27672, 1, Motor #4', Start Position = 0
+2023-04-27 20:53:55.168, 36696, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:53:55.176, 36696, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:53:55.180, 36696, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:53:55.180, 36696, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:53:55.182, 36696, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:53:58.206, 36696, 1, Motor #1', Start Position = 0
+2023-04-27 20:53:58.207, 36696, 1, Motor #2', Start Position = 0
+2023-04-27 20:53:58.209, 36696, 1, Motor #3', Start Position = 0
+2023-04-27 20:53:58.210, 36696, 1, Motor #4', Start Position = 0
+2023-04-27 20:56:30.551, 34020, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:56:30.561, 34020, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:56:30.566, 34020, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:56:30.567, 34020, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:56:30.569, 34020, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:56:33.603, 34020, 1, Motor #1', Start Position = 0
+2023-04-27 20:56:33.604, 34020, 1, Motor #2', Start Position = 0
+2023-04-27 20:56:33.605, 34020, 1, Motor #3', Start Position = 0
+2023-04-27 20:56:33.606, 34020, 1, Motor #4', Start Position = 0
+2023-04-27 20:57:07.241, 4244, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:57:07.247, 4244, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:57:07.252, 4244, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:57:07.253, 4244, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:57:07.255, 4244, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:57:10.283, 4244, 1, Motor #1', Start Position = 0
+2023-04-27 20:57:10.284, 4244, 1, Motor #2', Start Position = 0
+2023-04-27 20:57:10.285, 4244, 1, Motor #3', Start Position = 0
+2023-04-27 20:57:10.286, 4244, 1, Motor #4', Start Position = 0
+2023-04-27 20:57:44.798, 21696, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:57:44.804, 21696, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:57:44.809, 21696, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:57:44.810, 21696, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:57:44.812, 21696, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:57:47.819, 21696, 1, Motor #1', Start Position = 0
+2023-04-27 20:57:47.820, 21696, 1, Motor #2', Start Position = 0
+2023-04-27 20:57:47.821, 21696, 1, Motor #3', Start Position = 0
+2023-04-27 20:57:47.822, 21696, 1, Motor #4', Start Position = 0
+2023-04-27 20:58:53.879, 17548, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe **********
+2023-04-27 20:58:53.887, 17548, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-04-27 20:58:53.892, 17548, 1, 64-bit OS, 64-bit mode.
+2023-04-27 20:58:53.892, 17548, 1, System Folder: C:\WINDOWS\system32
+2023-04-27 20:58:53.894, 17548, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-04-27 20:58:56.889, 17548, 1, Motor #1', Start Position = 0
+2023-04-27 20:58:56.890, 17548, 1, Motor #2', Start Position = 0
+2023-04-27 20:58:56.891, 17548, 1, Motor #3', Start Position = 0
+2023-04-27 20:58:56.892, 17548, 1, Motor #4', Start Position = 0
