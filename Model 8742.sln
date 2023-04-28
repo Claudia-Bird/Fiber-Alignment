@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenSingleDevice", "OpenSingleDevice\OpenSingleDevice.csproj", "{DF7C4ED7-6F95-4398-8A8F-C7B004DB1BCA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenMultipleDevices", "OpenMultipleDevices\OpenMultipleDevices.csproj", "{72811254-D8DC-4193-8E3F-4680E3FBE0E6}"
@@ -9,23 +11,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelativeMove", "RelativeMov
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetPositionAllSlaves", "GetPositionAllSlaves\GetPositionAllSlaves.csproj", "{9C328133-3434-4095-AF90-82B61E17F273}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleRelativeMoveIndividual", "MultipleRelativeMoveIndividual\MultipleRelativeMoveIndividual.csproj", "{1C929356-E839-4BDA-8A1E-5097B5BCC42A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleRelativeMove", "MultipleRelativeMove\MultipleRelativeMove.csproj", "{13983280-DD3D-41A2-8DD0-3EF258EF1810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultipleRelativeMoveThreading", "MultipleRelativeMoveThreading\MultipleRelativeMoveThreading.csproj", "{9755BD90-91BE-483A-8719-1B245813A499}"
+EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 5
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = OpenSingleDevice\\OpenSingleDevice.csproj
-		SccProjectName1 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208742/OpenSingleDevice\u0022,\u0020GEHIAAAA
-		SccLocalPath1 = OpenSingleDevice
-		SccProjectUniqueName2 = OpenMultipleDevices\\OpenMultipleDevices.csproj
-		SccProjectName2 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208742/OpenMultipleDevices\u0022,\u0020IDHIAAAA
-		SccLocalPath2 = OpenMultipleDevices
-		SccProjectUniqueName3 = RelativeMove\\RelativeMove.csproj
-		SccProjectName3 = \u0022$/ISTD/Apps/Utilities/Picomotor/PicomotorApp/Install/Samples/C#/Model\u00208742/RelativeMove\u0022,\u0020DFHIAAAA
-		SccLocalPath3 = RelativeMove
-		SccProjectUniqueName4 = GetPositionAllSlaves\\GetPositionAllSlaves.csproj
-		SccLocalPath4 = .
-		SccProjectFilePathRelativizedFromConnection4 = GetPositionAllSlaves\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
@@ -47,8 +39,23 @@ Global
 		{9C328133-3434-4095-AF90-82B61E17F273}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9C328133-3434-4095-AF90-82B61E17F273}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C929356-E839-4BDA-8A1E-5097B5BCC42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C929356-E839-4BDA-8A1E-5097B5BCC42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C929356-E839-4BDA-8A1E-5097B5BCC42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C929356-E839-4BDA-8A1E-5097B5BCC42A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13983280-DD3D-41A2-8DD0-3EF258EF1810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13983280-DD3D-41A2-8DD0-3EF258EF1810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13983280-DD3D-41A2-8DD0-3EF258EF1810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13983280-DD3D-41A2-8DD0-3EF258EF1810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9755BD90-91BE-483A-8719-1B245813A499}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9755BD90-91BE-483A-8719-1B245813A499}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9755BD90-91BE-483A-8719-1B245813A499}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9755BD90-91BE-483A-8719-1B245813A499}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02871BB1-4F48-40A3-9FA7-CE9AA7C3AA84}
 	EndGlobalSection
 EndGlobal
