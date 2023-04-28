@@ -1,0 +1,10 @@
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.exe
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\MultipleRelativeMoveThreading.pdb
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\CmdLib.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\UsbDllWrap.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\bin\Debug\NpEthernet.dll
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\obj\Debug\MultipleRelativeMoveThreading.csproj.AssemblyReference.cache
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\obj\Debug\MultipleRelativeMoveThreading.csproj.CoreCompileInputs.cache
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\obj\Debug\MultipleRelativeMoveThreading.csproj.CopyComplete
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\obj\Debug\MultipleRelativeMoveThreading.exe
+C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\MultipleRelativeMoveThreading\obj\Debug\MultipleRelativeMoveThreading.pdb
