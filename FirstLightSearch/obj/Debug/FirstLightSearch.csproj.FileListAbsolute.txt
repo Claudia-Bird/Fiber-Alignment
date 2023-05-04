@@ -9,12 +9,6 @@ C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\obj\Debug\FirstLightSearch.exe
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\obj\Debug\FirstLightSearch.pdb
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe.config
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPMX_32.Interop.dll
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPMX_64.Interop.dll
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPM_32.Interop.dll
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPM_64.Interop.dll
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPMX_32.Interop.xml
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPMX_64.Interop.xml
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPM_32.Interop.xml
-C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\Thorlabs.TLPM_64.Interop.xml
 C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\obj\Debug\FirstLightSearch.csproj.SuggestedBindingRedirects.cache

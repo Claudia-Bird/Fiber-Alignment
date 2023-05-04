@@ -17,6 +17,7 @@ using System.Text;
 using System.Threading;
 using NewFocus.Picomotor;
 using Thorlabs.TLPMX_64;
+using Thorlabs.TLPMX_64.Interop;
 
 namespace NewFocus.Picomotor
 {
@@ -46,13 +47,13 @@ namespace NewFocus.Picomotor
     {
         public static List<MotorProperties> motor = new List<MotorProperties>(); // List for housing all the motors
         public static CmdLib8742 cmdLib = new CmdLib8742(false, 1000, ref Global.strDeviceKey); // Acquiring the strDeviceKey, params: no logging, 5 second delay for discovery, string var to save device key to
-        //private static TLPMX tlpm;
+        private static TLPMX tlpm;
 
         //MAIN METHOD
         static void Main(string[] args)
         {
             motorCommunicationSetup();
-            //powerMeterCommunicationSetup();
+            powerMeterCommunicationSetup();
 
             /*
             // RANDOM TEST FOR MOTOR MOVEMENT
@@ -85,7 +86,7 @@ namespace NewFocus.Picomotor
             Console.WriteLine("3) Motor #3");
             Console.WriteLine("4) Motor #4");
             Console.WriteLine("5) All Motors");
-            //Console.WriteLine("6) FirstLightSearch");
+            Console.WriteLine("6) FirstLightSearch");
             Console.WriteLine("7) STOP program");
             Console.Write("\r\nSelect an option: ");
             // options end
@@ -98,7 +99,7 @@ namespace NewFocus.Picomotor
                     ///Console.Clear();
                     Console.WriteLine("How many steps to move?");
                     motor[Global.index].nSteps = Convert.ToInt32(Console.ReadLine()); // stores the number of steps to move for the individual motor
-                    move(); // call move method
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(move)); // call move method
                     return true; // returning true causes menu to show again
 
                 case "2":
@@ -106,7 +107,7 @@ namespace NewFocus.Picomotor
                     //onsole.Clear();
                     Console.WriteLine("How many steps to move?");
                     motor[Global.index].nSteps = Convert.ToInt32(Console.ReadLine()); // stores the number of steps to move for the individual motor
-                    move(); // call move method
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(move)); // call move method
                     return true; // returning true causes menu to show again
 
                 case "3":
@@ -114,7 +115,7 @@ namespace NewFocus.Picomotor
                     //Console.Clear();
                     Console.WriteLine("How many steps to move?");
                     motor[Global.index].nSteps = Convert.ToInt32(Console.ReadLine()); // stores the number of steps to move for the individual motor
-                    move(); // call move method
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(move)); // call move method
                     return true; // returning true causes menu to show again
 
                 case "4":
@@ -122,7 +123,7 @@ namespace NewFocus.Picomotor
                     //Console.Clear();
                     Console.WriteLine("How many steps to move?");
                     motor[Global.index].nSteps = Convert.ToInt32(Console.ReadLine()); // stores the number of steps to move for the individual motor
-                    move(); // call move method
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(move)); // call move method
                     return true; // returning true causes menu to show again
 
                 case "5":
@@ -140,9 +141,13 @@ namespace NewFocus.Picomotor
                     for (int i = 0; i <= Global.nMotorMax - 1; i++)
                     {
                         Global.index = i;
-                        move();
+                        ThreadPool.QueueUserWorkItem(new WaitCallback(move));
                     }
 
+                    return true; // returning true causes menu to show again
+
+                case "6":
+                    spiralLightSearch();
                     return true; // returning true causes menu to show again
 
                 case "7":
@@ -156,7 +161,7 @@ namespace NewFocus.Picomotor
         // MENU METHOD END
 
         // RELATIVE MOVE METHOD
-        static void move()
+        static void move(object Callback)
         {
             int localindex = Global.index;
 
@@ -229,17 +234,19 @@ namespace NewFocus.Picomotor
             double lastx = 0;
             double lasty = 0;
             double t = 0;
-            while (Math.Round(Global.powerValue / 1000, 2) <= 0.05)
+            int counter = 0;
+
+            while (Math.Round(Global.powerValue / 1000, 2) <= 0.05 || counter <= 100 )
             {
                 t = t + Math.PI / 6;
+                counter++;
                 double x = 20 / Math.PI * (t * Math.Cos(t));
                 double y = 20 / Math.PI * (t * Math.Sin(t));
                 int stepx = Convert.ToInt32(x - lastx);
                 int stepy = Convert.ToInt32(y - lasty); //note it will round to nearest number
                 motor[0].nSteps = stepx;
                 motor[1].nSteps = stepy;
-                motor[0].bStatus = cmdLib.RelativeMove(Global.strDeviceKey, motor[0].nMotor, motor[0].nSteps);
-                motor[1].bStatus = cmdLib.RelativeMove(Global.strDeviceKey, motor[1].nMotor, motor[1].nSteps);
+                ThreadPool.QueueUserWorkItem(new WaitCallback(move));
                 // find steps to move x and y motor
                 // move x and y motor accordingly... but how many steps is equal to the movement?
                 // Lets say 1000 nm movement or 1 micron. If we want that amount, and on average a step is 20nm, that means 50 steps for a 1000nm movement.
@@ -248,8 +255,23 @@ namespace NewFocus.Picomotor
                 Console.WriteLine("{0},{1}", stepx, stepy);
                 lastx = x;
                 lasty = y;
-                //tlpm.measPower(out Global.powerValue, TLPMConstants.Default_Channel);
+                tlpm.measPower(out Global.powerValue, TLPMConstants.Default_Channel);
             }
+        }
+
+        static void XYpeakSearch()
+        {
+            Console.WriteLine("Starting search for peak power value in X-Y plane.");
+        }
+
+        static void pitchSearch()
+        {
+            Console.WriteLine("Starting search for peak power value in pitch.");
+        }
+
+        static void yawSearch()
+        {
+            Console.WriteLine("Starting search for peak power value in yaw.");
         }
 
         static void motorCommunicationSetup()
@@ -291,7 +313,7 @@ namespace NewFocus.Picomotor
             Console.WriteLine("MOTOR COMMUNICATION SETUP END");
         }
 
-        /*
+        
         static void powerMeterCommunicationSetup()
         {
             
@@ -334,7 +356,7 @@ namespace NewFocus.Picomotor
             tlpm = new TLPMX(firstPowermeterFound, true, true);  //  For valid Ressource_Name see NI-Visa documentation. Defines the tlpm object previously created with the name, says to perform ID QUERY and reset device
             tlpm.setWavelength(1310, TLPMConstants.Default_Channel); // set wavelength to 1310 nm
         }
-        */
+        
     }
     // MAIN CLASS END
 }
