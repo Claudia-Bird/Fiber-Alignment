@@ -1,0 +1,182 @@
+2023-05-04 21:33:02.040, 21600, 1, Motor #1', Start Position = 0
+2023-05-04 21:33:02.041, 21600, 1, Motor #2', Start Position = 0
+2023-05-04 21:33:02.042, 21600, 1, Motor #3', Start Position = 0
+2023-05-04 21:33:02.043, 21600, 1, Motor #4', Start Position = 0
+2023-05-04 21:34:46.574, 33856, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 21:34:46.580, 33856, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 21:34:46.584, 33856, 1, 64-bit OS, 64-bit mode.
+2023-05-04 21:34:46.584, 33856, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 21:34:46.585, 33856, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 21:34:49.568, 33856, 1, Motor #1', Start Position = 0
+2023-05-04 21:34:49.569, 33856, 1, Motor #2', Start Position = 0
+2023-05-04 21:34:49.570, 33856, 1, Motor #3', Start Position = 0
+2023-05-04 21:34:49.571, 33856, 1, Motor #4', Start Position = 0
+2023-05-04 22:41:43.007, 26036, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 22:41:43.012, 26036, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 22:41:43.015, 26036, 1, 64-bit OS, 64-bit mode.
+2023-05-04 22:41:43.016, 26036, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 22:41:43.017, 26036, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 22:41:45.989, 26036, 1, Motor #1', Start Position = 0
+2023-05-04 22:41:45.990, 26036, 1, Motor #2', Start Position = 0
+2023-05-04 22:41:45.991, 26036, 1, Motor #3', Start Position = 0
+2023-05-04 22:41:45.991, 26036, 1, Motor #4', Start Position = 0
+2023-05-04 22:42:38.713, 25876, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 22:42:38.722, 25876, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 22:42:38.725, 25876, 1, 64-bit OS, 64-bit mode.
+2023-05-04 22:42:38.726, 25876, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 22:42:38.727, 25876, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 22:42:41.669, 25876, 1, Motor #1', Start Position = 0
+2023-05-04 22:42:41.670, 25876, 1, Motor #2', Start Position = 0
+2023-05-04 22:42:41.671, 25876, 1, Motor #3', Start Position = 0
+2023-05-04 22:42:41.672, 25876, 1, Motor #4', Start Position = 0
+2023-05-04 22:43:58.551, 22100, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 22:43:58.558, 22100, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 22:43:58.561, 22100, 1, 64-bit OS, 64-bit mode.
+2023-05-04 22:43:58.561, 22100, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 22:43:58.562, 22100, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 22:44:01.547, 22100, 1, Motor #1', Start Position = 0
+2023-05-04 22:44:01.548, 22100, 1, Motor #2', Start Position = 0
+2023-05-04 22:44:01.549, 22100, 1, Motor #3', Start Position = 0
+2023-05-04 22:44:01.550, 22100, 1, Motor #4', Start Position = 0
+2023-05-04 22:44:44.964, 9760, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 22:44:44.970, 9760, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 22:44:44.973, 9760, 1, 64-bit OS, 64-bit mode.
+2023-05-04 22:44:44.974, 9760, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 22:44:44.975, 9760, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 22:44:47.957, 9760, 1, Motor #1', Start Position = 0
+2023-05-04 22:44:47.958, 9760, 1, Motor #2', Start Position = 0
+2023-05-04 22:44:47.959, 9760, 1, Motor #3', Start Position = 0
+2023-05-04 22:44:47.960, 9760, 1, Motor #4', Start Position = 0
+2023-05-04 23:10:34.180, 18048, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:10:34.186, 18048, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:10:34.189, 18048, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:10:34.190, 18048, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:10:34.191, 18048, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:10:47.780, 19876, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:10:47.786, 19876, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:10:47.789, 19876, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:10:47.790, 19876, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:10:47.791, 19876, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:10:50.747, 19876, 1, Motor #1', Start Position = 0
+2023-05-04 23:10:50.748, 19876, 1, Motor #2', Start Position = 0
+2023-05-04 23:10:50.749, 19876, 1, Motor #3', Start Position = 0
+2023-05-04 23:10:50.750, 19876, 1, Motor #4', Start Position = 0
+2023-05-04 23:17:11.843, 34600, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:17:11.850, 34600, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:17:11.853, 34600, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:17:11.854, 34600, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:17:11.855, 34600, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:17:14.818, 34600, 1, Motor #1', Start Position = 0
+2023-05-04 23:17:14.819, 34600, 1, Motor #2', Start Position = 0
+2023-05-04 23:17:14.820, 34600, 1, Motor #3', Start Position = 0
+2023-05-04 23:17:14.820, 34600, 1, Motor #4', Start Position = 0
+2023-05-04 23:18:36.430, 24384, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:18:36.436, 24384, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:18:36.439, 24384, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:18:36.440, 24384, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:18:36.441, 24384, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:18:39.425, 24384, 1, Motor #1', Start Position = 0
+2023-05-04 23:18:39.426, 24384, 1, Motor #2', Start Position = 0
+2023-05-04 23:18:39.427, 24384, 1, Motor #3', Start Position = 0
+2023-05-04 23:18:39.427, 24384, 1, Motor #4', Start Position = 0
+2023-05-04 23:19:23.473, 22436, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:19:23.481, 22436, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:19:23.484, 22436, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:19:23.484, 22436, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:19:23.485, 22436, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:19:26.445, 22436, 1, Motor #1', Start Position = 0
+2023-05-04 23:19:26.446, 22436, 1, Motor #2', Start Position = 0
+2023-05-04 23:19:26.447, 22436, 1, Motor #3', Start Position = 0
+2023-05-04 23:19:26.448, 22436, 1, Motor #4', Start Position = 0
+2023-05-04 23:21:03.764, 24656, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:21:03.770, 24656, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:21:03.773, 24656, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:21:03.773, 24656, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:21:03.775, 24656, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:21:06.743, 24656, 1, Motor #1', Start Position = 0
+2023-05-04 23:21:06.744, 24656, 1, Motor #2', Start Position = 0
+2023-05-04 23:21:06.745, 24656, 1, Motor #3', Start Position = 0
+2023-05-04 23:21:06.746, 24656, 1, Motor #4', Start Position = 0
+2023-05-04 23:37:30.597, 6800, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:37:30.631, 6800, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:41:19.475, 21548, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:41:19.483, 21548, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:41:19.486, 21548, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:41:19.486, 21548, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:41:19.487, 21548, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:41:22.447, 21548, 1, Motor #1', Start Position = 0
+2023-05-04 23:41:22.448, 21548, 1, Motor #2', Start Position = 0
+2023-05-04 23:41:22.449, 21548, 1, Motor #3', Start Position = 0
+2023-05-04 23:41:22.450, 21548, 1, Motor #4', Start Position = 0
+2023-05-04 23:42:41.902, 31452, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:42:41.908, 31452, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:42:41.910, 31452, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:42:41.911, 31452, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:42:41.912, 31452, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:42:44.880, 31452, 1, Motor #1', Start Position = 0
+2023-05-04 23:42:44.881, 31452, 1, Motor #2', Start Position = 0
+2023-05-04 23:42:44.882, 31452, 1, Motor #3', Start Position = 0
+2023-05-04 23:42:44.883, 31452, 1, Motor #4', Start Position = 0
+2023-05-04 23:43:41.291, 12332, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:43:41.296, 12332, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:43:41.299, 12332, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:43:41.300, 12332, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:43:41.301, 12332, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:43:44.443, 12332, 1, Motor #1', Start Position = 0
+2023-05-04 23:43:44.444, 12332, 1, Motor #2', Start Position = 0
+2023-05-04 23:43:44.445, 12332, 1, Motor #3', Start Position = 0
+2023-05-04 23:43:44.445, 12332, 1, Motor #4', Start Position = 0
+2023-05-04 23:44:22.498, 35324, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:44:22.504, 35324, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:44:22.507, 35324, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:44:22.508, 35324, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:44:22.509, 35324, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:44:24.108, 35324, 1, Motor #1', Start Position = 0
+2023-05-04 23:44:24.110, 35324, 1, Motor #2', Start Position = 0
+2023-05-04 23:44:24.112, 35324, 1, Motor #3', Start Position = 0
+2023-05-04 23:44:24.113, 35324, 1, Motor #4', Start Position = 0
+2023-05-04 23:44:53.554, 31500, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:44:53.560, 31500, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:44:53.565, 31500, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:44:53.565, 31500, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:44:53.567, 31500, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:44:56.534, 31500, 1, Motor #1', Start Position = 0
+2023-05-04 23:44:56.535, 31500, 1, Motor #2', Start Position = 0
+2023-05-04 23:44:56.536, 31500, 1, Motor #3', Start Position = 0
+2023-05-04 23:44:56.537, 31500, 1, Motor #4', Start Position = 0
+2023-05-04 23:45:25.118, 21484, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:45:25.124, 21484, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:45:25.127, 21484, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:45:25.127, 21484, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:45:25.128, 21484, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:45:28.128, 21484, 1, Motor #1', Start Position = 0
+2023-05-04 23:45:28.129, 21484, 1, Motor #2', Start Position = 0
+2023-05-04 23:45:28.129, 21484, 1, Motor #3', Start Position = 0
+2023-05-04 23:45:28.130, 21484, 1, Motor #4', Start Position = 0
+2023-05-04 23:46:21.585, 34364, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:46:21.591, 34364, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:46:21.594, 34364, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:46:21.594, 34364, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:46:21.595, 34364, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:46:23.084, 34364, 1, Motor #1', Start Position = 0
+2023-05-04 23:46:23.085, 34364, 1, Motor #2', Start Position = 0
+2023-05-04 23:46:23.086, 34364, 1, Motor #3', Start Position = 0
+2023-05-04 23:46:23.087, 34364, 1, Motor #4', Start Position = 0
+2023-05-04 23:47:35.789, 3860, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:47:35.795, 3860, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:47:35.797, 3860, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:47:35.798, 3860, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:47:35.799, 3860, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:47:38.786, 3860, 1, Motor #1', Start Position = 0
+2023-05-04 23:47:38.787, 3860, 1, Motor #2', Start Position = 0
+2023-05-04 23:47:38.788, 3860, 1, Motor #3', Start Position = 0
+2023-05-04 23:47:38.789, 3860, 1, Motor #4', Start Position = 0
+2023-05-04 23:50:12.367, 31988, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-04 23:50:12.373, 31988, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-04 23:50:12.376, 31988, 1, 64-bit OS, 64-bit mode.
+2023-05-04 23:50:12.376, 31988, 1, System Folder: C:\WINDOWS\system32
+2023-05-04 23:50:12.378, 31988, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-04 23:50:15.369, 31988, 1, Motor #1', Start Position = 0
+2023-05-04 23:50:15.370, 31988, 1, Motor #2', Start Position = 0
+2023-05-04 23:50:15.371, 31988, 1, Motor #3', Start Position = 0
+2023-05-04 23:50:15.372, 31988, 1, Motor #4', Start Position = 0
