@@ -1,0 +1,64 @@
+2023-05-05 02:14:35.816, 27264, 1, Motor #1', Start Position = 0
+2023-05-05 02:14:35.817, 27264, 1, Motor #2', Start Position = 0
+2023-05-05 02:14:35.818, 27264, 1, Motor #3', Start Position = 0
+2023-05-05 02:14:35.819, 27264, 1, Motor #4', Start Position = 0
+2023-05-05 03:57:30.483, 36228, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-05 03:57:30.491, 36228, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-05 03:57:30.494, 36228, 1, 64-bit OS, 64-bit mode.
+2023-05-05 03:57:30.494, 36228, 1, System Folder: C:\WINDOWS\system32
+2023-05-05 03:57:30.496, 36228, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-05 03:57:33.522, 36228, 1, Master Controller:  Device Key = '8742 13460', Address = 1, Model / Serial = 8742 13460
+2023-05-05 03:57:33.525, 36228, 1, Motor #1', Start Position = 0
+2023-05-05 03:57:33.526, 36228, 1, Motor #2', Start Position = 0
+2023-05-05 03:57:33.527, 36228, 1, Motor #3', Start Position = 0
+2023-05-05 03:57:33.527, 36228, 1, Motor #4', Start Position = 0
+2023-05-05 03:57:33.529, 36228, 1,      Slave Controller:  Device Key = '8742 13460', Address = 2, Model / Serial = 8742 100236
+2023-05-05 03:57:33.537, 36228, 1, Motor #1', Start Position = 0
+2023-05-05 03:57:33.544, 36228, 1, Motor #2', Start Position = 0
+2023-05-05 03:57:33.552, 36228, 1, Motor #3', Start Position = 0
+2023-05-05 03:57:33.560, 36228, 1, Motor #4', Start Position = 0
+2023-05-05 03:59:27.187, 30884, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-05 03:59:27.193, 30884, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-05 03:59:27.195, 30884, 1, 64-bit OS, 64-bit mode.
+2023-05-05 03:59:27.196, 30884, 1, System Folder: C:\WINDOWS\system32
+2023-05-05 03:59:27.197, 30884, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-05 03:59:30.181, 30884, 1, Master Controller:  Device Key = '8742 13460', Address = 1, Model / Serial = 8742 13460
+2023-05-05 03:59:30.184, 30884, 1, Motor #1', Start Position = 0
+2023-05-05 03:59:30.185, 30884, 1, Motor #2', Start Position = 0
+2023-05-05 03:59:30.186, 30884, 1, Motor #3', Start Position = 0
+2023-05-05 03:59:30.186, 30884, 1, Motor #4', Start Position = 0
+2023-05-05 03:59:30.188, 30884, 1,      Slave Controller:  Device Key = '8742 13460', Address = 2, Model / Serial = 8742 100236
+2023-05-05 03:59:30.196, 30884, 1, Motor #1', Start Position = 0
+2023-05-05 03:59:30.204, 30884, 1, Motor #2', Start Position = 0
+2023-05-05 03:59:30.210, 30884, 1, Motor #3', Start Position = 0
+2023-05-05 03:59:30.218, 30884, 1, Motor #4', Start Position = 0
+2023-05-05 04:00:00.569, 29576, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-05 04:00:00.575, 29576, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-05 04:00:00.577, 29576, 1, 64-bit OS, 64-bit mode.
+2023-05-05 04:00:00.578, 29576, 1, System Folder: C:\WINDOWS\system32
+2023-05-05 04:00:00.579, 29576, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-05 04:00:03.598, 29576, 1, Master Controller:  Device Key = '8742 13460', Address = 1, Model / Serial = 8742 13460
+2023-05-05 04:00:03.601, 29576, 1, Motor #1', Start Position = 0
+2023-05-05 04:00:03.602, 29576, 1, Motor #2', Start Position = 0
+2023-05-05 04:00:03.602, 29576, 1, Motor #3', Start Position = 0
+2023-05-05 04:00:03.603, 29576, 1, Motor #4', Start Position = 0
+2023-05-05 04:00:03.605, 29576, 1,      Slave Controller:  Device Key = '8742 13460', Address = 2, Model / Serial = 8742 100236
+2023-05-05 04:00:03.613, 29576, 1, Motor #1', Start Position = 0
+2023-05-05 04:00:03.621, 29576, 1, Motor #2', Start Position = 0
+2023-05-05 04:00:03.628, 29576, 1, Motor #3', Start Position = 0
+2023-05-05 04:00:03.636, 29576, 1, Motor #4', Start Position = 0
+2023-05-05 04:00:42.788, 29448, 1, ********** Entry Path = C:\Program Files\New Focus\New Focus Picomotor Application\Samples\C#\Model 8742\FirstLightSearch\bin\Debug\FirstLightSearch.exe **********
+2023-05-05 04:00:42.793, 29448, 1, OS: Windows 8 Version: 6.2.9200.0
+2023-05-05 04:00:42.797, 29448, 1, 64-bit OS, 64-bit mode.
+2023-05-05 04:00:42.797, 29448, 1, System Folder: C:\WINDOWS\system32
+2023-05-05 04:00:42.798, 29448, 1, C:\WINDOWS\system32\UsbDll.dll Version 5.0.7
+2023-05-05 04:00:45.805, 29448, 1, Master Controller:  Device Key = '8742 13460', Address = 1, Model / Serial = 8742 13460
+2023-05-05 04:00:45.808, 29448, 1, Motor #1', Start Position = 0
+2023-05-05 04:00:45.808, 29448, 1, Motor #2', Start Position = 0
+2023-05-05 04:00:45.809, 29448, 1, Motor #3', Start Position = 0
+2023-05-05 04:00:45.810, 29448, 1, Motor #4', Start Position = 0
+2023-05-05 04:00:45.812, 29448, 1,      Slave Controller:  Device Key = '8742 13460', Address = 2, Model / Serial = 8742 100236
+2023-05-05 04:00:45.820, 29448, 1, Motor #1', Start Position = 0
+2023-05-05 04:00:45.827, 29448, 1, Motor #2', Start Position = 0
+2023-05-05 04:00:45.835, 29448, 1, Motor #3', Start Position = 0
+2023-05-05 04:00:45.843, 29448, 1, Motor #4', Start Position = 0
